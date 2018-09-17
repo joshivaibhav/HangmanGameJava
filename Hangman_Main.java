@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 
-public class ArtWork {
+public class Hangman_Main {
 
     //global constants for generating the artwork.
     static int ROW = 10;
