@@ -1,0 +1,10 @@
+a
+aba
+rochester
+hello world
+computer science
+my 
+name 
+is 
+hangman
+java
